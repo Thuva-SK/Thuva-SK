@@ -92,19 +92,7 @@ Building real-world LMS, School Systems & Scalable Web Applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thuva-SK&show_icons=true&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thuva-SK&theme=tokyonight" />
-</p>
-
----
-
-<!-- ================= CONTRIBUTION ================= -->
-
-## ⚡ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thuva-SK&theme=tokyo-night" />
 </p>
 
 ---
