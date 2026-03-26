@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Thuvarakan
 
-<!--
-**Thuva-SK/Thuva-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | AI Enthusiast  
+🎯 Founder of Quantum Waves  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- Frontend: React, Vite, Tailwind CSS  
+- Backend: Node.js, Express, Python (Flask)  
+- Database: Prisma, MySQL, SQLite  
+- Tools: Git, GitHub, Vercel, cPanel  
+---
+
+## 🔥 Featured Projects
+
+### 🎓 Maths Mastery Hub (LMS)
+- Advanced Learning Platform for A/L Students  
+- Unit, Monthly & Video Access Control  
+- Admin Dashboard with Student Management  
+🌐 https://mathssaranraj.com  
+
+### 🏫 School Management System
+- Attendance, Exams, Student Records  
+- AI-powered insights (planned)  
+🌐 https://school-system-demo-ten.vercel.app  
+
+### 📘 Tuition Website Platform
+- Student Registration  
+- Notes & Learning Materials  
+- Mobile-friendly design  
+
+
+## 🌍 Portfolio
+🔗 https://thuva-portfolio.vercel.app  
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thuva-SK&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Thuva-SK  
+
+
+⭐ “Building real-world systems, not just projects”
