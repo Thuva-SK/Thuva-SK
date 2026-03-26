@@ -34,9 +34,6 @@
 ## 🌍 Portfolio
 🔗 https://thuva-portfolio.vercel.app  
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thuva-SK&show_icons=true&theme=tokyonight)
-
 ## 📫 Connect with Me
 - GitHub: https://github.com/Thuva-SK  
 
