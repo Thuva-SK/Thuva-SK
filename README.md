@@ -1,41 +1,136 @@
-👋 Hi, I'm Thuvarakan
+<!-- ================= HEADER ================= -->
 
-🚀 Full Stack Developer | AI Enthusiast  
-🎯 Founder of Quantum Waves  
+<h1 align="center">Hi 👋, I'm Thuvarakan</h1>
+<h3 align="center">🚀 Full Stack Developer | EdTech Builder | Founder of Quantum Waves</h3>
+
+<p align="center">
+Building real-world LMS, School Systems & Scalable Web Applications
+</p>
 
 ---
+
+<!-- ================= BANNER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Quantum%20Waves&fontSize=40&fontColor=ffffff" />
+</p>
+
+---
+
+<!-- ================= ABOUT ================= -->
+
+## 🧠 About Me
+
+- 🎓 HNDIT Student | Future Full Stack & AI Engineer  
+- 🏗️ Building real systems (not just tutorials)  
+- 🚀 Founder of **Quantum Waves** (EdTech & Digital Solutions)  
+- 📍 Focus: LMS Platforms • School Systems • Web Apps  
+
+---
+
+<!-- ================= CURRENT ================= -->
+
+## 🚀 Currently Working On
+
+- 🎓 Advanced LMS Platform for A/L Students  
+- 📱 Converting Web Systems → Mobile Apps  
+- 🤖 AI-powered Student Learning Tools  
+
+---
+
+<!-- ================= TECH STACK ================= -->
 
 ## 💻 Tech Stack
-- Frontend: React, Vite, Tailwind CSS  
-- Backend: Node.js, Express, Python (Flask)  
-- Database: Prisma, MySQL, SQLite  
-- Tools: Git, GitHub, Vercel, cPanel  
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,python,flask,mysql,sqlite,tailwind,js,ts,git,github,vscode" />
+
+</p>
+
 ---
+
+<!-- ================= PROJECTS ================= -->
 
 ## 🔥 Featured Projects
 
 ### 🎓 Maths Mastery Hub (LMS)
-- Advanced Learning Platform for A/L Students  
-- Unit, Monthly & Video Access Control  
-- Admin Dashboard with Student Management  
+> Advanced learning platform for A/L students
+
+- Unit → Month → Video Access Control  
+- Admin Dashboard & Student Management  
+- Free Preview System  
+- Scalable architecture  
+
 🌐 https://mathssaranraj.com  
 
+---
+
 ### 🏫 School Management System
-- Attendance, Exams, Student Records  
-- AI-powered insights (planned)  
+> Complete digital system for schools
+
+- Attendance Tracking  
+- Exam & Result Management  
+- Student & Teacher Dashboard  
+- AI Insights (Upcoming)  
+
 🌐 https://school-system-demo-ten.vercel.app  
 
-### 📘 Tuition Website Platform
+---
+
+### 📘 Tuition Platform
+> Smart tuition class website
+
 - Student Registration  
 - Notes & Learning Materials  
-- Mobile-friendly design  
+- Mobile-first UI  
 
+---
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thuva-SK&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thuva-SK&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION ================= -->
+
+## ⚡ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thuva-SK&theme=tokyo-night" />
+</p>
+
+---
+
+<!-- ================= PORTFOLIO ================= -->
 
 ## 🌍 Portfolio
+
 🔗 https://thuva-portfolio.vercel.app  
 
-## 📫 Connect with Me
-- GitHub: https://github.com/Thuva-SK  
+---
 
+<!-- ================= CONTACT ================= -->
 
-⭐ “Building real-world systems, not just projects”
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Thuva-SK">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  ⭐ Building systems that solve real-world problems
+</p>
