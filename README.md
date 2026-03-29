@@ -87,16 +87,6 @@ Building real-world LMS, School Systems & Scalable Web Applications
 
 ---
 
-<!-- ================= STATS ================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thuva-SK&theme=tokyonight" />
-</p>
-
----
-
 <!-- ================= PORTFOLIO ================= -->
 
 ## 🌍 Portfolio
