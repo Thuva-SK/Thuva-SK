@@ -11,19 +11,12 @@ Building real-world LMS, School Systems & Scalable Web Applications
 
 <!-- ================= BANNER ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Quantum%20Waves&fontSize=40&fontColor=ffffff" />
-</p>
-
----
-
 <!-- ================= ABOUT ================= -->
 
 ## 🧠 About Me
 
 - 🎓 HNDIT Student | Future Full Stack & AI Engineer  
-- 🏗️ Building real systems (not just tutorials)  
-- 🚀 Founder of **Quantum Waves** (EdTech & Digital Solutions)  
+- 🏗️ Building real systems (not just tutorials)    
 - 📍 Focus: LMS Platforms • School Systems • Web Apps  
 
 ---
@@ -32,8 +25,7 @@ Building real-world LMS, School Systems & Scalable Web Applications
 
 ## 🚀 Currently Working On
 
-- 🎓 Advanced LMS Platform for A/L Students  
-- 📱 Converting Web Systems → Mobile Apps  
+- 🎓 Advanced LMS Platform for Students  
 - 🤖 AI-powered Student Learning Tools  
 
 ---
@@ -44,7 +36,7 @@ Building real-world LMS, School Systems & Scalable Web Applications
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,python,flask,mysql,sqlite,tailwind,js,ts,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,python,mysql,tailwind,js,ts,git,github,vscode" />
 
 </p>
 
@@ -63,27 +55,6 @@ Building real-world LMS, School Systems & Scalable Web Applications
 - Scalable architecture  
 
 🌐 https://mathssaranraj.com  
-
----
-
-### 🏫 School Management System
-> Complete digital system for schools
-
-- Attendance Tracking  
-- Exam & Result Management  
-- Student & Teacher Dashboard  
-- AI Insights (Upcoming)  
-
-🌐 https://school-system-demo-ten.vercel.app  
-
----
-
-### 📘 Tuition Platform
-> Smart tuition class website
-
-- Student Registration  
-- Notes & Learning Materials  
-- Mobile-first UI  
 
 ---
 
