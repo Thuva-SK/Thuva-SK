@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Thuvarakan</h1>
+<h1 align="center">Hi 👋, I'm Thuvaragan</h1>
 <h3 align="center">🚀 Full Stack Developer | EdTech Builder | Founder of Quantum Waves</h3>
 
 <p align="center">
