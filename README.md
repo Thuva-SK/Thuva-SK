@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Thuvaragan</h1>
-<h3 align="center">🚀 Full Stack Developer | EdTech Builder/h3>
+<h3 align="center">🚀 Full Stack Developer | EdTech Builder</h3>
 
 <p align="center">
 Building real-world LMS, School Systems & Scalable Web Applications
